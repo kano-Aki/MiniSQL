@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../../My Documents/Homework/2022SS/db/minisql/cyw2/minisql"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"hash_map": "cpp",
+			"hash_set": "cpp",
+			"slist": "cpp"
+		}
+	}
+}
